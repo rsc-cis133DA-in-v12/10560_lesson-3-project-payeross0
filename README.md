@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=13580790&assignment_repo_type=AssignmentRepo)
 # Lesson 3 Project
 At the end of each lesson, you will be completing a project that includes developing web pages using the concepts and skills covered throughout the lesson. Before you start the project, make sure that you have completed all How-To and Practice Activities within the lesson, which will greatly help you with this project.
 
